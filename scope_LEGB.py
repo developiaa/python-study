@@ -1,3 +1,5 @@
+#-*- coding: utf-8 -*-
+
 # python scope rule
 # Local > Enclosed > Global > Built-in
 

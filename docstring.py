@@ -1,3 +1,5 @@
+#-*- coding: utf-8 -*-
+# python 2의 경우
 class Docstring:
     """
     클래스 설명을 명시하는 부분

@@ -1,11 +1,12 @@
 def get_natural_number():
-    n=0
+    n = 0
     while True:
-        n+=1
+        n += 1
         yield n
 
+
 g = get_natural_number()
-for _ in range(0,100):
+for _ in range(0, 100):
     print(next(g))
 
 
